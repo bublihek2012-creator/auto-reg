@@ -17,7 +17,7 @@ def main():
     # 3. Запуск регистрации для примера
     # В реальном сценарии site_key получается динамически.
     # target_site_url - адрес сайта, на котором вы регистрируетесь.
-    target_url = "https://example.com/signup"  # Замените на целевой сайт
+    target_url = "https://cun.ai/sign-up"  # Замените на целевой сайт
     site_key = "0x4AAAAAAA..."  # Замените на реальный site_key для Turnstile
 
     register.register(
